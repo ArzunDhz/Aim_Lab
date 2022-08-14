@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aim_Lab/static/css/main.5c0517d6.css",
+    "main.js": "/Aim_Lab/static/js/main.0804d549.js",
+    "index.html": "/Aim_Lab/index.html",
+    "main.5c0517d6.css.map": "/Aim_Lab/static/css/main.5c0517d6.css.map",
+    "main.0804d549.js.map": "/Aim_Lab/static/js/main.0804d549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0517d6.css",
+    "static/js/main.0804d549.js"
+  ]
+}
